@@ -37,7 +37,7 @@ None
 
 ## Questions
 
-Please reach out to me on my [GitHub](github.com/wolaki96) or my email at wolaki96@gmail.com if you have any questions!
+Please reach out to me on my [GitHub](https://github.com/wolaki96) or my email at wolaki96@gmail.com if you have any questions!
 
 
 
